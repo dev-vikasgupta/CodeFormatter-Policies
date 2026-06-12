@@ -1,3 +1,6 @@
+[Home](index.md) | [Privacy Policy](privacy-policy.md) | [Terms](terms-of-service.md) | [Support](support.md)
+
+---
 # CodeFormatter Privacy Policy
 
 **Last Updated:** June 2026
