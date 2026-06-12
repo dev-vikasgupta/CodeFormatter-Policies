@@ -1,3 +1,6 @@
+[Home](index.html) | [Privacy Policy](privacy-policy.html) | [Terms](terms-of-service.html) | [Support](support.html)
+
+---
 # CodeFormatter
 
 Format and syntax-highlight code blocks in Google Docs.
