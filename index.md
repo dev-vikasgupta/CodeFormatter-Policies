@@ -1,4 +1,4 @@
-[Home](index.html) | [Privacy Policy](privacy-policy.html) | [Terms](terms-of-service.html) | [Support](support.html)
+[Home](index.md) | [Privacy Policy](privacy-policy.md) | [Terms](terms-of-service.md) | [Support](support.md)
 
 ---
 # CodeFormatter
