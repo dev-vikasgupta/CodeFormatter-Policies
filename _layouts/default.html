@@ -1,39 +1,65 @@
-<style>
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 16px 0;
-  border-bottom: 1px solid #e1e4e8;
-  margin-bottom: 32px;
-}
-.brand {
-  font-size: 24px;
-  font-weight: 600;
-  color: #24292f;
-  text-decoration: none;
-}
-.navbar-right {
-  display: flex;
-  gap: 24px;
-}
-.navbar-right a {
-  text-decoration: none;
-  color: #0969da;
-}
-.navbar-right a:hover {
-  text-decoration: underline;
-}
-</style>
-<nav class="navbar">
-  <div class="navbar-left">
-    <a class="brand" href="{{ '/' | relative_url }}">
-      CodeFormatter
-    </a>
-  </div>
-  <div class="navbar-right">
-    <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>
-    <a href="{{ '/terms-of-service/' | relative_url }}">Terms of Service</a>
-    <a href="{{ '/support/' | relative_url }}">Support</a>
-  </div>
-</nav>
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+
+  <style>
+    .navbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 16px 0;
+      border-bottom: 1px solid #e1e4e8;
+      margin-bottom: 32px;
+    }
+
+    .brand {
+      font-size: 24px;
+      font-weight: 600;
+      color: #24292f;
+      text-decoration: none;
+    }
+
+    .navbar-right {
+      display: flex;
+      gap: 24px;
+    }
+
+    .navbar-right a {
+      text-decoration: none;
+      color: #0969da;
+    }
+
+    .navbar-right a:hover {
+      text-decoration: underline;
+    }
+
+    .content {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <nav class="navbar">
+    <div class="navbar-left">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        CodeFormatter
+      </a>
+    </div>
+
+    <div class="navbar-right">
+      <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>
+      <a href="{{ '/terms-of-service/' | relative_url }}">Terms of Service</a>
+      <a href="{{ '/support/' | relative_url }}">Support</a>
+    </div>
+  </nav>
+
+  <main class="content">
+    {{ content }}
+  </main>
+</body>
+</html>
