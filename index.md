@@ -1,5 +1,6 @@
-[Home](index.md) | [Privacy Policy](privacy-policy.md) | [Terms](terms-of-service.md) | [Support](support.md)
-
+---
+layout: default
+title: CodeFormatter
 ---
 
 # CodeFormatter
