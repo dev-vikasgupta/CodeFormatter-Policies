@@ -2,7 +2,7 @@
 layout: default
 title: Privacy Policy
 ---
-# CodeFormatter Privacy Policy
+# Privacy Policy
 
 **Last Updated:** June 2026
 
@@ -116,4 +116,4 @@ Vikas Gupta
 
 Email: cse.vikashgupta@gmail.com
 
-GitHub: https://github.com/[YOUR_GITHUB_USERNAME]
+GitHub: https://github.com/dev.vikasgupta

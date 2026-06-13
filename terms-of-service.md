@@ -2,7 +2,7 @@
 layout: default
 title: Terms of Service
 ---
-# CodeFormatter Terms of Service
+# Terms of Service
 
 **Last Updated:** June 2026
 

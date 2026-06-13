@@ -35,7 +35,7 @@
       text-decoration: underline;
     }
 
-    .content {
+    .content,.navbar-body {
       max-width: 900px;
       margin: 0 auto;
       padding: 20px;
@@ -45,6 +45,7 @@
 
 <body>
   <nav class="navbar">
+    <div class="navbar-body">
     <div class="navbar-left">
       <a class="brand" href="{{ '/' | relative_url }}">
         CodeFormatter
@@ -52,9 +53,10 @@
     </div>
 
     <div class="navbar-right">
-      <a href="{{ '/privacy-policy/' | relative_url }}">Privacy Policy</a>
-      <a href="{{ '/terms-of-service/' | relative_url }}">Terms of Service</a>
-      <a href="{{ '/support/' | relative_url }}">Support</a>
+      <a href="{{ '/privacy-policy.html/' | relative_url }}">Privacy Policy</a>
+      <a href="{{ '/terms-of-service.html/' | relative_url }}">Terms of Service</a>
+      <a href="{{ '/support.html/' | relative_url }}">Support</a>
+    </div>
     </div>
   </nav>
 

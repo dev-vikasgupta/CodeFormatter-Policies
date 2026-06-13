@@ -2,7 +2,7 @@
 layout: default
 title: Support
 ---
-# CodeFormatter Support
+# Support
 
 Thank you for using CodeFormatter.
 
