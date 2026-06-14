@@ -3,8 +3,7 @@ layout: default
 title: CodeFormatter
 ---
 
-# CodeFormatter
-![Code Formatter Banner](https://github.com/user-attachments/assets/e894f089-0349-4513-b738-db20a742e425)
+![Code Formatter Banner](https://github.com/user-attachments/assets/18eb1558-c2ce-40b8-a06c-1480ed38d4d6)
 
 Format and syntax-highlight code blocks directly inside Google Docs.
 
