@@ -62,7 +62,7 @@ CodeFormatter is designed with privacy in mind.
 * Processing occurs entirely within Google Workspace.
 * Only the currently active document is accessed.
 
-For details, see the Privacy Policy.
+For details, see the [Privacy Policy](https://dev-vikasgupta.github.io/CodeFormatter-Policies/privacy-policy).
 
 ---
 
@@ -96,7 +96,7 @@ Future premium features may be introduced separately.
 
 Need help or want to suggest a feature?
 
-Visit the Support page or create an issue on GitHub.
+Visit the [Support page](https://dev-vikasgupta.github.io/CodeFormatter-Policies/support.html/) or create an issue on [GitHub](https://github.com/dev-vikasgupta/CodeFormatter-Policies/issues).
 
 ---
 
